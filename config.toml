@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-139912391-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -249,20 +249,22 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Theses"
-  url = "#theses"
-  weight = 2
 
-#[[menu.main]]
-#  name = "Publications"
-#  url = "#publications_selected"
-#  weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+ name = "Publications"
+ url = "#publications"
+ weight = 2
+
+ [[menu.main]]
+   name = "Theses"
+   url = "#theses"
+   weight = 3
+
+# [[menu.main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 3
 
 [[menu.main]]
   name = "Projects"

@@ -9,7 +9,7 @@ title = "Theses"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 10
+weight = 20
 +++
 * **M.E. degree:**  ***Type Systems with Constraints for ML Type Inference with Implementation in Haskell***\
 supervised by Prof. Silvia Ghilezan
